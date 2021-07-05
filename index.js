@@ -1,6 +1,4 @@
 const API_URL = "https://gateway.marvel.com/v1/public";
-const API_KEY = "a059e10e4ca48902af649618f721f1ce";
-const API_HASH = "d785528519dff7b531c81213327c27b1";
 
 
 function getCharacters() {
